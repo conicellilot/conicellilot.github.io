@@ -1,2 +1,2 @@
-# spartanboosts.github.io
-PDI Manager
+# conicellilot.github.io
+Conicelli Lot Attendant Handbook
